@@ -37,18 +37,6 @@ Expense-Tracker
 ├── .gitignore
 └── README.md
 
-⚙️ How to Run
-
-Clone the repository:
-
-git clone https://github.com/your-username/Expense-Tracker-Java.git
-
-
-Open the project in Eclipse
-
-Run the Main class from com.project.view
-
-Follow the console menu
 
 📈 Learning Objectives
 
@@ -68,10 +56,6 @@ Database integration using JDBC
 
 Category-wise analysis
 
-👤 Author
-
-Piyush Juneja
-GitHub: https://github.com/your-username
 
 📝 Note
 
